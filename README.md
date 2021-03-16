@@ -3,7 +3,7 @@
 <div>
   <a href="https://www.linkedin.com/in/ceguzal"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/linkedin.svg" alt="Linkedin cguzman" title="cguzman" height="24px" hspace="5px" /></a>
   <a href="https://stackoverflow.com/users/15083012"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/stackoverflow.svg" alt="Stackoverflow Cguzman" title="Stackoverflow" height="24px" hspace="5px" /></a>
-  <a href="http://aiastronomy.cguz.org/"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/iaastronomy.svg" alt="IA Astronomy" title="IA Astronomy" height="24px" hspace="5px" /></a>
+  <a href="http://aiastronomy.cguz.org/"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/IAAstronomy.png" alt="IA Astronomy" title="IA Astronomy" height="24px" hspace="5px" /></a>
 </div>
 
 <br>
