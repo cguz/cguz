@@ -18,7 +18,7 @@ I love space science and programming.
 ## Languages and Tools
 
 <a href="https://java.com"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/java.svg" alt="Java" title="Java" height="24px" hspace="5px" /></a>
-<a href="https://isocpp.org"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/c.svg" alt="C" title="C" height="24px" hspace="5px" /></a>
+<a href="https://isocpp.org"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/C.svg" alt="C" title="C" height="24px" hspace="5px" /></a>
 <a href="https://isocpp.org"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/cplusplus.svg" alt="C++" title="C++" height="24px" hspace="5px" /></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/python.svg" alt="Python" title="Python" height="24px" hspace="5px" /></a>
 <a href="https://www.w3c.org/"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/html5_css3.svg" alt="HTML5 and CSS3" title="HTML5 and CSS3" height="24px" hspace="5px" /></a>
