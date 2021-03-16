@@ -1,9 +1,9 @@
-# Hi, I'm [Dr. Prof. Cesar Guzman](http://www.cguz.org) 👋
+# I'm [Dr. Prof. Cesar Guzman](http://www.cguz.org) 👋
 
 <div>
   <a href="https://www.linkedin.com/in/ceguzal"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/linkedin.svg" alt="Linkedin cguzman" title="cguzman" height="24px" hspace="5px" /></a>
   <a href="https://stackoverflow.com/users/15083012"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/stackoverflow.svg" alt="Stackoverflow Cguzman" title="Stackoverflow" height="24px" hspace="5px" /></a>
-  <a href="http://aiastronomy.cguz.org/"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/iaastronomy.svg" alt="IA Astronomy" title="IA Astronomy" height="100px" hspace="5px" align="right"/></a>
+  <a href="http://aiastronomy.cguz.org/"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/iaastronomy.svg" alt="IA Astronomy" title="IA Astronomy" height="24px" hspace="5px" /></a>
 </div>
 
 <br>
@@ -18,6 +18,7 @@ I love space science and programming.
 ## Languages and Tools
 
 <a href="https://java.com"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/java.svg" alt="Java" title="Java" height="24px" hspace="5px" /></a>
+<a href="https://isocpp.org"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/c.svg" alt="C" title="C" height="24px" hspace="5px" /></a>
 <a href="https://isocpp.org"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/cplusplus.svg" alt="C++" title="C++" height="24px" hspace="5px" /></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/python.svg" alt="Python" title="Python" height="24px" hspace="5px" /></a>
 <a href="https://www.w3c.org/"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/html5_css3.svg" alt="HTML5 and CSS3" title="HTML5 and CSS3" height="24px" hspace="5px" /></a>
