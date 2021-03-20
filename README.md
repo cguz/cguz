@@ -11,7 +11,7 @@
 - 👨‍🎓 I'm a Ph.D. in Artificial Intelligence.
 I love space science and programming.
 - 👨‍💻 I work as a senior software developer engineer and an online lecture, teaching planning, search algorithm, and advance operating systems.
-- 🚀 I actively maintain my project [IA for Astronomy](https://aiastronomy.cguz.org)
+- 🚀 I actively maintain my project [IA for Astronomy](http://aiastronomy.cguz.org)
 - 🌱 I'm currently learning [ROS](https://www.ros.org) and the programming language [C#](https://docs.microsoft.com/es-es/dotnet/csharp/).
 - 🎽 I love all kind of sports, but especially dancing and running
 
