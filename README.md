@@ -15,7 +15,7 @@ I love space science and programming.
 - 🌱 I'm currently improving my knowledge in:
   - [reinforcement Learning](http://github.com/cguz/rl/)
   - [C++17/19/20](http://github.com/cguz/cplusplus/)
-- 🌱 I am also learning [ROS](https://www.ros.org) and the programming language [C#](https://docs.microsoft.com/es-es/dotnet/csharp/).
+  - I am also learning [ROS](https://www.ros.org) and the programming language [C#](https://docs.microsoft.com/es-es/dotnet/csharp/).
 - 🎽 I love all kind of sports, but especially dancing and running
 
 ## Languages and Tools
