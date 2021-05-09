@@ -27,3 +27,5 @@ I love space science and programming.
 <a href="https://tensorflow.org"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/tensorflow.svg" alt="Tensorflow" title="Tensorflow" height="24px" hspace="5px" /></a>
 <a href="https://eclipse.org"><img src="https://user-images.githubusercontent.com/15159632/111532448-f6faa480-8765-11eb-8d0e-6ce48a82646d.png" alt="Eclipse" title="Eclipse" height="24px" hspace="5px" /></a>
 
+[![Ces's GitHub stats](https://github-readme-stats.vercel.app/api?username=cguz)](https://github.com/cguz/)
+
