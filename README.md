@@ -12,7 +12,7 @@
 I love space science and programming.
 - 👨‍💻 I work as a senior software developer engineer ([model to natural language](http://github.com/cguz/model-to-text/)) and an online lecture, teaching planning, search algorithm, and advance operating systems.
 - 🚀 I actively maintain my project [IA for Astronomy](http://aiastronomy.cguz.org)
-- 🌱 I am learning [ROS](https://www.ros.org) and the programming language [C#](https://docs.microsoft.com/es-es/dotnet/csharp/).
+- 🌱 I am learning [ROS](https://www.ros.org) and the programming languages [C#](https://docs.microsoft.com/es-es/dotnet/csharp/), and [Rust](https://foundation.rust-lang.org/).
 - 🎽 I love all kind of sports, but especially dancing and running
 
 ## Languages and Tools
