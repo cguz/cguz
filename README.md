@@ -1,4 +1,4 @@
-# I'm [Dr. Cesar Guzman](http://www.cguz.org) 👋
+# I'm [Dr. Prof. Cesar Guzman](http://www.cguz.org) 👋
 
 <div>
   <a href="https://www.linkedin.com/in/ceguzal"><img src="https://raw.githubusercontent.com/cguz/cguz/main/assets/linkedin.svg" alt="Linkedin cguzman" title="cguzman" height="24px" hspace="5px" /></a>
