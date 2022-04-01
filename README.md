@@ -10,9 +10,9 @@
 
 - 👨‍🎓 I'm a Ph.D. in Artificial Intelligence.
 I love space science and programming.
-- 👨‍💻 I work as a senior software developer engineer ([model to natural language](http://github.com/cguz/model-to-text/)) and an online lecture, teaching planning, search algorithm, and advance operating systems.
+- 👨‍💻  I work as a senior software/system engineer (working on ML projects for the space sector, using MLOps) and an online lecture (teaching planning, search algorithm, and advanced operating systems).
 - 🚀 I actively maintain my project [IA for Astronomy](http://aiastronomy.cguz.org)
-- 🌱 I am learning [ROS](https://www.ros.org) and the programming language [Rust](https://foundation.rust-lang.org/).
+- 🌱 I am learning the programming language [Rust](https://foundation.rust-lang.org/) and [ROS](https://www.ros.org).
 - 🎽 I love all kind of sports, but especially dancing and running
 
 ## Languages and Tools
